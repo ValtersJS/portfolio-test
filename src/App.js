@@ -10,7 +10,7 @@ function App() {
       <Header />
     </div>
   </BrowserRouter> 
-  )
-}
+  );
+};
 
 export default App;
